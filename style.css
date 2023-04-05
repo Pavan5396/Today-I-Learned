@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #292524;
+    color: white;
+}
+/* Header section */
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 20px;
+}
+.logo{
+    display: flex;
+}
+
+
+.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+h1{
+font-family: "coiny",sans-serif;
+}
+
+/* main section */
+.mainSection{
+    display: flex;
+}
+
+/* tags */
+.tag{
+    font-family: "coiny",sans-serif;
+}
+
+/* facts */
+
+.fact{
+    font-family: "sono",sans-serif;
+}
+.factsList{
+    display: flex;
+}
